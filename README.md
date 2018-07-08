@@ -1,24 +1,5 @@
-# README
+# Members-only, a Rails website
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## About
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A Gossip clone website. Everyone can see posts on the website. Only loged-in members can posts and see who's the author of other posts.
